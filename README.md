@@ -13,3 +13,4 @@ I'm a full stack generalist. I ❤️ functional programming.
 
 [Gemini]: https://charlestaylor7.github.io/gemini
 [Spago]: https://github.com/purescript/spago#readme
+[Purescript]: https://github.com/purescript/purescript#readme
