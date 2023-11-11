@@ -3,7 +3,7 @@
 I'm a full stack generalist. I ❤️ functional programming. 
 
 - 💻 I’m currently contributing to:
-   🍝 [Spago], the build tool for [Purescript].
+  - 🍝 [Spago], the build tool for [Purescript].
  
 - 🏗️ I’m currently building:
   - 🧩 [Gemini], a web app simualation of a mechanical puzzle.
