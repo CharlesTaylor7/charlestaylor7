@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack Software engineer with 6+ years of experience. I love building delightful software.
+I'm a full stack Software engineer with 7+ years of experience. I love building delightful software.
 
 🔥 I am Interested in:
   - WebGL
