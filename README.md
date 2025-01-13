@@ -1,17 +1,13 @@
 ### Hi there 👋
 
 I'm a full stack Software engineer with 7+ years of experience. I love building delightful software.
-
-🔥 I am Interested in:
-  - WebGL
-  - Rust
-  - Web assembly
-  - Mathematics
  
  🏗️ I’m currently building:
-  - 🧩 [A 3d simulation for a rubik's cube puzzle]
+  - [An Rss/Atom Feed Reader with ASP.NET Core & Entity Framework Core][rss-reader]
+  - 🧩 [A 3d simulation for a rubik's cube puzzle, with Rust, WebGL, Web Assembly][webgl]
     
  📫 I'm available for hire:
   - Reach me at charlestaylor95@gmail.com
 
-[A 3d simulation for a rubik's cube puzzle]:  https://github.com/charlestaylor7/webgl
+[webgl]:  https://github.com/charlestaylor7/webgl
+[rss-reader]:  https://github.com/charlestaylor7/rss-reader
