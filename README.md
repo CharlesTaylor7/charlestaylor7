@@ -3,7 +3,6 @@
 I'm a full stack Software engineer with 7+ years of experience. I love building delightful software.
  
  🏗️ I’m currently building:
-  - 📰 [An RSS / Atom Feed Reader with ASP.NET Core & Entity Framework Core][rss-reader]
   - 🧩 [A 3d simulation for a rubik's cube puzzle, with Rust, WebGL, Web Assembly][webgl]
     
  📫 I'm available for hire:
