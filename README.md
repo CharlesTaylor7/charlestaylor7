@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack Software engineer with 7+ years of experience. I love building delightful software.
+I'm a full stack Software engineer with 8+ years of experience. I love building delightful software.
  
  🏗️ I’m currently building:
   - 🧩 [A 3d simulation for a rubik's cube puzzle, with Rust, WebGL, Web Assembly][webgl]
